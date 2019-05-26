@@ -9,6 +9,7 @@
        </v-flex>
        <v-flex xs12 md6>
          <v-btn outline block class="yellow white--text">2</v-btn>
+         <v-btn outline block class="yellow white--text">3</v-btn>
        </v-flex>
      </v-layout>
    </v-container>

@@ -22,6 +22,6 @@ export default new Router({
       path: '/team',
       name: 'team',
       component: Team
-    },
+    }
   ]
 })
